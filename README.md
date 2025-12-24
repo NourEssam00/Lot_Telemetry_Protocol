@@ -1,4 +1,4 @@
-# UDP Telemetry Mini-RFC
+# UDP Telemetry 
 
 This repository contains a lightweight UDP-based telemetry protocol
 implementation and its accompanying Mini-RFC.
